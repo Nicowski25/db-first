@@ -4,17 +4,17 @@
 
 ##Table columns: 
 
--ID
--Codice Telaio
--Modello
--Marca
--Categoria
--Prezzo
--Potenza
--Cilindrata
--Kilowatt
--Carburante
--Anno produzione
--Chilometraggio
--Cambio
--Neopatentati
+- ID
+- Codice Telaio
+- Modello
+- Marca
+- Categoria
+- Prezzo
+- Potenza
+- Cilindrata
+- Kilowatt
+- Carburante
+- Anno produzione
+- Chilometraggio
+- Cambio
+- Neopatentati
